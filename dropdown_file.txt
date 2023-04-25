@@ -13,9 +13,11 @@
 <body>
     <div class="container">
         <h2>Dropdowns</h2>
-            <div class="dropdown">
-       <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-            Dropdown button</button>
+            
+        <div class="dropdown">
+          <button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+            Dropdown button
+          </button>
           <ul class="dropdown-menu">
             <li><a class="dropdown-item" href="#">Technology</a></li>
             <li><a class="dropdown-item" href="#">Web Development</a></li>
@@ -25,5 +27,6 @@
           </ul>
         </div>
       </div>
-      </body>
+      
+</body>
 </html>
